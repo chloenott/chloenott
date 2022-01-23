@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/89756479/150695013-1f4cf0f5-bfb4-4c20-
 
 ### Mental Health Website ([deployed](https://mental-health-website-cf201d79.github.io/mental-health-website/) | [github](https://github.com/mental-health-website-cf201d79/mental-health-website))
 
-Brandon, Ibraheem, and I created this vanilla JS/HTML/CSS website to raise awareness of mental health conditions. There's also a screening questionaiire to screen for a few mental health conditions. While the questions are pooled from legitimate tests, I don't have the confidence nor qualifications to accept that liability. Please go to more thoroughly vetted sources instead.
+Brandon, Ibraheem, and I created this vanilla JS/HTML/CSS website from scratch to raise awareness of mental health conditions. There's also a screening questionaiire to screen for a few mental health conditions. While the questions are pooled from legitimate tests, I don't have the confidence nor qualifications to accept that liability. Please go to more thoroughly vetted sources instead.
 
 ![mental_health_website_screenshot](https://user-images.githubusercontent.com/89756479/150695674-6e03d29f-1631-4fb1-bdea-b9822a2f6e47.jpg)
 
