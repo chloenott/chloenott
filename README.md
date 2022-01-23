@@ -31,7 +31,7 @@ Joseph, K'Lan, Miguel, Jordan, and I created this GMail dashboard, also in one w
 
 ### Mental Health Website ([deployed](https://mental-health-website-cf201d79.github.io/mental-health-website/) | [github](https://github.com/mental-health-website-cf201d79/mental-health-website))
 
-Brandon, Ibraheem, and I created this vanilla JS/HTML/CSS website from scratch to raise awareness of mental health conditions. There's also a screening questionaiire to screen for a few mental health conditions. While the questions are pooled from legitimate tests, I don't have the confidence nor qualifications to accept that liability. Please go to more thoroughly vetted sources instead.
+Brandon, Ibraheem, and I created this vanilla JS/HTML/CSS website from scratch to raise awareness of mental health conditions. There's also a screening questionnaire to screen for a few mental health conditions. While the questions are pooled from legitimate tests, I don't have the confidence nor qualifications to accept that liability. Please go to more thoroughly vetted sources instead.
 
 <details><summary>Click for screenshot</summary>
   
