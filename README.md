@@ -11,6 +11,7 @@ Want to do a practice whiteboard with me? Feel free to bug me! Want to be convin
 - [Reading Notes](https://chloenott.github.io/reading-notes/)
 - [Data Structures and Algorithms Practice](https://chloenott.github.io/data-structures-and-algorithms/)
 - [My take on Code Fellow's 201 Pat's Salmon Cookies](https://chloenott.github.io/cookie-stand/)
+- [My take on Code Fellow's 301 City Explorer](https://city-explorer-cn.netlify.app)
 
 ## Projects for Fun
 
