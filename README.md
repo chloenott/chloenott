@@ -33,7 +33,7 @@ Joseph, K'Lan, Miguel, Jordan, and I created this GMail dashboard, also in one w
 
 ### BigTextbox ([github](https://github.com/chloenott/big-textbox))
 
-Something I made for myself. People have a hard time hearing my voice, especially with a mask, and I wanted a solution. I wasn't satisfied with any similar apps already out there, so I made one that fits exactly what I'm looking for: shows very big text on the screen with minimal keypresses, has favorites, and is otherwise lightweight and fast to use. The text adjusts in size as needed to fit everything in one view. I use it quite often!
+Something I made for myself. It's a bit difficult to understand my voice, especially with a mask, and I wanted a solution. I wasn't satisfied with any similar apps already out there, so I made one that fits exactly what I'm looking for: shows very big text on the screen with minimal keypresses, has favorites, and is otherwise lightweight and fast to use. The text adjusts in size as needed to fit everything in one view. I use it quite often!
 
 https://user-images.githubusercontent.com/89756479/150696513-050ec950-5d50-45ff-ad38-975e79417165.mov
 
