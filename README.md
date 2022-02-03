@@ -15,7 +15,7 @@ Want to do a practice whiteboard with me? Feel free to bug me! Want to be convin
 
 ### Arcade Cat ([github](https://github.com/MCK-Team/Arcade-Game))
 
-In one week, K'Lan, Miguel, and I learned how to use Python Arcade from zero (to hero?) to create this 2D sidescroller using freely available assets. It was fun working on a game! Recommend.
+In one week, K'Lan, Miguel, and I learned how to use Python Arcade from zero to create this 2D sidescroller using freely available assets. It was fun working on a game! Recommend.
 
 https://user-images.githubusercontent.com/89756479/150695013-1f4cf0f5-bfb4-4c20-aa5e-d611d3452fac.mov
 
