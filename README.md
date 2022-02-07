@@ -21,8 +21,6 @@ In five days, Brannon, David, Miguel, and I made this online multiplayer action 
 
 In one week, K'Lan, Miguel, and I learned how to use Python Arcade from zero to create this 2D sidescroller using freely available assets. It was fun working on a game! Recommend.
 
-https://user-images.githubusercontent.com/89756479/150695013-1f4cf0f5-bfb4-4c20-aa5e-d611d3452fac.mov
-
 ### MailPal ([github](https://github.com/something-basic))
 
 Joseph, K'Lan, Miguel, Jordan, and I created this GMail dashboard, also in one week (noticing a trend here?). Built with react, node/express, and the gmail API. Secured with OAuth. The website is not at all optimized, but interestingly in the demo gif below, each click to update the chart view fires off tens to hundreds of concurrent API requests in a split second. We had like 100k API calls made within like 24 hours for one user. I love the inefficiency!
