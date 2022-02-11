@@ -13,7 +13,7 @@ Want to do a practice whiteboard with me? Feel free to bug me! Want to be convin
 
 ## Projects for Fun
 
-### Apple Smash ([github](https://github.com/NotFFTT/game))
+### Apple Smash ([github](https://github.com/NotFFTT/game) | [demo](https://www.linkedin.com/posts/chloenott_final-project-presentation-online-multiplayer-activity-6896509601265664001-HdP-))
 
 In five days, Brannon, David, Miguel, and I made this online multiplayer action game built on experiences from Arcade Cat. Python Arcade does not support multiplayer, but with an exceedingly quick crash course in python's low-level networking interface library, "sockets," with specific settings, and a bunch of other stuff, we were able to get the high-quality low-lag online gameplay we were hoping for. We used a DigitalOcean droplet so that players anywhere can connect to the game's server. Both the client and server are threaded, for various reasons, that in turn keep update and frame rates as fast as possible. We are very proud of the result and I am quite happy to have had the opportunity to work with my teammates on this game.
 
