@@ -1,10 +1,8 @@
 ## About Me
 
-Hi! I’m Chloe (they/she). My life at the moment is all things software development. I am a software development sponge. I want to learn how to develop better software. I want to help develop great software with others for others.
+Hi! I’m Chloe (they/she). My degree is in physics, was a manufacturing engineer for a bit, and now I’m burning up time making a website/game/thing of sorts that I wish existed. It’ll be sweet, I promise. Maybe.
 
-I am coming from an atypical background. My degree is in physics. I was a manufacturing engineer for a few years. I can probably offer a unique perspective as a result, or at the very least, a LinkedIn skills list that keeps hitting the number-of-skills cap.
-
-Want to do a practice whiteboard with me? Feel free to bug me! Want to be convinced to watch Gundam Unicorn? Feel free to bug me!
+Want to be convinced to watch Gundam Unicorn? Feel free to bug me!
 
 ## Links
 
