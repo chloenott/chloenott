@@ -1,8 +1,6 @@
 ## About Me
 
-Hi! I’m Chloe (they/she). My degree is in physics, was a manufacturing engineer for a bit, and now I’m burning up time making a website/game/thing of sorts that I wish existed. It’ll be sweet, I promise. Maybe.
-
-Want to be convinced to watch Gundam Unicorn? Feel free to bug me!
+Hi! I’m Chloe (they/she). My degree is in physics, was a manufacturing engineer for a bit, and now I’m spending time working on a multiplayer browser game that I wish existed.
 
 ## Links
 
